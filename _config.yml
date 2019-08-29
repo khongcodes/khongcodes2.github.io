@@ -1,11 +1,11 @@
 # Site settings
-author: K Hong
-title: 
+author: Kevin Hong
+title: KHong Codes
 header-img: img/home-bg.png
 email: albtrossfacefall@gmail.com
-copyright_name: K Hong
+copyright_name: Kevin Hong
 description: > # this means to ignore newlines until "baseurl:"
-  
+  On Doing Making and Making Do
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  khongcodes2
