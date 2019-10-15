@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra App Project - SaleTracker"
-date:       2019-10-15 01:36:01 +0000
+date:       2019-10-14 21:36:02 -0400
 permalink:  sinatra_app_project_-_saletracker
 ---
 
@@ -13,4 +13,5 @@ This weekend I will be tabling for PEOW studio at Massachusetts Independent Comi
 
 I'm chomping at the bit to get my hands dirty with CSS even more.
 
-![style='max-width:50%'](https://images.squarespace-cdn.com/content/v1/56ddb90af85082e7fcd0a964/1560367178871-46DAEWQ6HK891N60CBK4/ke17ZwdGBToddI8pDm48kB0TpnhDW45iPXJxwBkUKK8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dgyJ6kQI4_FJb-3Mf93SSdrNvSCB2QZ-ius70rFD3-oBCjLISwBs8eEdxAxTptZAUg/vrillust1.png?format=2500w)
+![](https://images.squarespace-cdn.com/content/v1/56ddb90af85082e7fcd0a964/1560367178871-46DAEWQ6HK891N60CBK4/ke17ZwdGBToddI8pDm48kB0TpnhDW45iPXJxwBkUKK8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dgyJ6kQI4_FJb-3Mf93SSdrNvSCB2QZ-ius70rFD3-oBCjLISwBs8eEdxAxTptZAUg/vrillust1.png?format=2500w)
+*Image by [me](http://khongdraws.com/)!* 
