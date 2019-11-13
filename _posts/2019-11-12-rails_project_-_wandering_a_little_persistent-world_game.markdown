@@ -1,10 +1,13 @@
 ---
 layout: post
 title:      "Rails Project - Wandering: a little persistent-world game"
-date:       2019-11-12 09:44:16 +0000
+date:       2019-11-12 04:44:17 -0500
 permalink:  rails_project_-_wandering_a_little_persistent-world_game
 ---
 
+![](https://i.imgur.com/r2XANrb.png)
+
+*Above: an entity relationship diagram for the project, which can be found [here.](https://github.com/khongcodes2/Wandering)*
 
 We're supposed to think in metaphors, right?
 User has blog post. Blog post has comments. Blog post and users also have likes. And once you close out the page and come back, user still has their post and comments.
