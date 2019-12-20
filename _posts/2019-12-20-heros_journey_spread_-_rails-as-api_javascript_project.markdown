@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hero's Journey Spread - Rails-as-API/Javascript project"
-date:       2019-12-20 09:39:48 +0000
+date:       2019-12-20 04:39:49 -0500
 permalink:  heros_journey_spread_-_rails-as-api_javascript_project
 ---
 
